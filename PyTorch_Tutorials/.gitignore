@@ -2,4 +2,4 @@ runs/
 data/
 *.pth
 *.png
-
+exercise_validation/
